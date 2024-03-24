@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          we ar eon a t3.medium. 
+          We're on a t3.medium instance. 
         </p>
         <a
           className="App-link"
