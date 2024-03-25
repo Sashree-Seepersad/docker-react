@@ -2,7 +2,7 @@ name: Deploy Frontend
 on:
   push:
     branches:
-      - master # check your repo, your default branch might be master!
+      - master # check your repo, your default branch might be main!
  
 jobs:
   build:
